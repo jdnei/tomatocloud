@@ -1,8 +1,18 @@
 # TomatCcloud土豆云机场官方地址(2026年8月20日更新)
 TomatCcloud土豆云机场官网地址<br>
+最新地址：[tomatocloud.me](https://tomatocloud.me/)<br>
 官网地址：[tomatocloud.me](https://tomatocloud.me/)<br>
-## 邀请码
 
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
+## 邀请码
+`无`
+## 折扣码/优惠码
+`无`
 ## 简介
 TomatoCloud 土豆云机场是一家面向日常上网、流媒体观看、AI 工具访问和跨境办公场景的机场服务商，主打稳定连接、多地区节点和简单易用。平台一般提供香港、日本、新加坡、台湾、美国等常用地区线路，适合访问海外网站、观看 YouTube / Netflix 等流媒体内容，以及使用 ChatGPT、Gemini、Claude 等海外 AI 服务。
 ## 优势
