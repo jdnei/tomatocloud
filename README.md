@@ -35,3 +35,11 @@ TomatoCloud 土豆云机场的优势主要体现在节点地区覆盖较实用�
 | 360天 | v.3 Basic | $52.99 | 128G / 30天 | v.3 | 3个设备 | 300 Mbps | 128G 每 30天 | 支持 | 仅供个人使用、解锁流媒体·AI、游戏专线节点、基础技术支持、高优先级维护 |
 | 360天 | v.3 Plus（推荐） | $86.99 | 256G / 30天 | v.3 | 5个设备 | 500 Mbps | 256G 每 30天 | 支持 | 仅供个人使用、解锁流媒体·AI、游戏专线节点、远程技术支持、高优先级维护 |
 | 360天 | v.3 Business | $267.99 | 1024G / 30天 | v.3 | 20个设备 | 无限制 | 1024G 每 30天 | 支持 | 团队畅享、解锁流媒体·AI、游戏专线节点、远程技术支持、高优先级维护 |
+
+## 📊 性能实测与分析
+#### 1.晚高峰测速表现
+![image](https://github.com/jdnei/tomatocloud/blob/main/tomato/740237405043speed.jpg?raw=true)</br>
+#### 2.流媒体解锁报告
+![image](https://github.com/jdnei/tomatocloud/blob/main/tomato/43250983409598test.png?raw=true)</br>
+#### 3.落地入口分析
+![image](https://github.com/jdnei/tomatocloud/blob/main/tomato/03425034850ana.png?raw=true)</br>
