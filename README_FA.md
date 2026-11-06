@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی VPN توماتوکلاد (TomatCcloud) -(به‌روزرسانی 5 نوامبر 2026)
+# آدرس رسمی VPN توماتوکلاد (TomatCcloud) -(به‌روزرسانی 6 نوامبر 2026)
 وب‌سایت رسمی VPN توماتوکلاد (TomatCcloud)<br>
 جدیدترین آدرس: [tomatocloud.me](https://to.iix.im/to01)<br>
 آدرس رسمی: [tomatocloud.me](https://to.iix.im/to01)<br>
