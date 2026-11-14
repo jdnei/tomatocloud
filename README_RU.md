@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт TomatCcloud VPN (обновлено 13 ноября 2026)
+# Официальный сайт TomatCcloud VPN (обновлено 14 ноября 2026)
 
 Официальный сайт VPN-сервиса TomatCcloud<br>
 Новый адрес: [tomatocloud.me](https://to.iix.im/to01)<br>
